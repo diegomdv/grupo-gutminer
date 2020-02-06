@@ -4,25 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
-  label: Created Pages (en)
-  create: documents
+  path: exampleSite/content/spanish
+  label: All Pages (es)
+  create: all
   match: "**/*"
-  templates:
-  - new-page
 - type: directory
   path: exampleSite/content/english
   label: All Pages (en)
@@ -40,6 +26,11 @@ sections:
 - type: directory
   path: exampleSite/data/fr
   label: Data (fr)
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/data/es
+  label: Data (es)
   create: all
   match: "**/*"
 - type: directory
