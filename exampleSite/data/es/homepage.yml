@@ -19,7 +19,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Contáctanos
       link: contact
   - title: Mantenimiento de Inmuebles
     content: Entramos a su inmueble, lo que vemos sano lo rompemos, lo que hay que
@@ -29,14 +29,14 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Contáctanos
       link: contact
   - title: Limpieza de Inmuebles
     content: 'Le mandamos a alguien que NUNCA va a llegar a horario '
     animation_in: left
     animation_out: right
     button:
-      label: Apply Now
+      label: Contáctanos
       link: contact
       enable: true
 banner_feature:
