@@ -1,4 +1,4 @@
-baseURL = "https://grupogutminer.com/"
+baseURL = "/"
 disableLanguages = ["fr"]
 disqusShortname = "grupogutminer"
 paginate = "6"
