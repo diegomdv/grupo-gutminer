@@ -6,13 +6,6 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Grupo Gutminer"
-[Languages.es]
-contentDir = "content/spanish"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Home"
-languageCode = "es-mx"
-languageName = "Es"
-weight = 1
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -20,6 +13,13 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = "2"
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Home"
+languageCode = "es-mx"
+languageName = "Es"
+weight = 1
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -101,7 +101,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = "images/preloader.gif"
 [params.subscription]
-enable = true
+enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
