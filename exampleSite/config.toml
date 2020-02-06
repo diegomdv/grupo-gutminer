@@ -12,6 +12,13 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Home"
+languageCode = "es-mx"
+languageName = "Es"
+weight = 1
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
