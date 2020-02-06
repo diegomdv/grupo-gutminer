@@ -2,74 +2,74 @@
 - id: read_more
   translation: Más
 - id: contact_form
-  translation: Contact Form
+  translation: Formulario de contacto
 - id: send
-  translation: send message
+  translation: enviar mensaje
 - id: contact_info
-  translation: Contact Info
+  translation: Información de contacto
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Suscribirse al newsletter
 - id: subscribe
-  translation: Subscribe
+  translation: suscribirse
 - id: contact_us
-  translation: Contact Us
+  translation: Contáctanos
 - id: latest_article
-  translation: Latest Article
+  translation: Último artículo
 - id: categories
-  translation: Categories
+  translation: Categorías
 - id: tags
   translation: Tags
 - id: see_all
-  translation: See all
+  translation: Ver todos
 - id: apply_now
-  translation: Apply now
+  translation: Aplicar
 - id: posted_by
-  translation: Posted by
+  translation: Publicado por
 - id: date
-  translation: Date
+  translation: Fecha
 - id: time
-  translation: time
+  translation: hora
 - id: category
-  translation: Category
+  translation: Categoría
 - id: related_course
-  translation: Related Course
+  translation: Curso relacionado
 - id: duration
-  translation: duration
+  translation: duración
 - id: weekly
-  translation: weekly
+  translation: semanal
 - id: fee
-  translation: fee
+  translation: costo
 - id: teacher
-  translation: teacher
+  translation: maestr@
 - id: location
-  translation: location
+  translation: ubicación
 - id: entry_fee
-  translation: entry fee
+  translation: costo de entrada
 - id: event_speaker
-  translation: Event Speakers
+  translation: Speakers del evento
 - id: more_event
-  translation: More Events
+  translation: Más eventos
 - id: join
-  translation: Join
+  translation: Únete
 - id: enter_email
-  translation: Enter your email…
+  translation: Ingresa tu email…
 - id: company
-  translation: company
+  translation: compañía
 - id: links
   translation: links
 - id: courses
-  translation: Courses
+  translation: Cursos
 - id: new_notice
   translation: new notice
 - id: call
-  translation: call
+  translation: llama
 - id: email
   translation: email
 - id: all
-  translation: All
+  translation: Tod@s
 - id: interest
-  translation: SUMMARY OF ACTIVITIES/INTERESTS
+  translation: Resumen de Actividades/Intereses
 - id: our_teachers
-  translation: Our Teachers
+  translation: Nuestros maestr@s
 - id: download
   translation: Download
