@@ -92,10 +92,10 @@ success_story:
     Según que si ponemos este testimonial nos devuelven algo.-
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
-  enable: true
+  enable: false
   title: Upcoming Events
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: TEACHERS
     count: "60"
@@ -106,5 +106,5 @@ funfacts:
   - name: SATISFIED CLIENT
     count: "1400"
 blog:
-  enable: true
+  enable: false
   title: Latest News
