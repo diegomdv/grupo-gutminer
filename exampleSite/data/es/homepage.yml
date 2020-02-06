@@ -31,6 +31,14 @@ slider:
       enable: true
       label: Apply now
       link: contact
+  - title: Limpieza de Inmuebles
+    content: 'Le mandamos a alguien que NUNCA va a llegar a horario '
+    animation_in: left
+    animation_out: right
+    button:
+      label: Apply Now
+      link: contact
+      enable: true
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
