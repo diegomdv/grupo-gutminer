@@ -72,7 +72,7 @@ about:
     label: Conóce más
     link: about
 course:
-  enable: true
+  enable: false
   title: Our Course
 cta:
   enable: true
@@ -85,11 +85,11 @@ cta:
 success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
-  title: Success Stories
+  title: 'Cliente: CiBanco'
   content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+    Grupo Gutminer nos viene robando desde hace años, y como nunca encontramos al responsable estamos amarrados.
 
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    Según que si ponemos este testimonial nos devuelven algo.-
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
   enable: true
