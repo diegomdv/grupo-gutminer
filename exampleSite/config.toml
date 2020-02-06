@@ -5,13 +5,6 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Grupo Gutminer"
-[Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = "2"
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -19,6 +12,13 @@ home = "Home"
 languageCode = "es-mx"
 languageName = "Es"
 weight = 1
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = "2"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
