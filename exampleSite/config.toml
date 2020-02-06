@@ -25,7 +25,7 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "3"
 [[menu.footer]]
 URL = "teacher"
 name = "teacher"
