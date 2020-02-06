@@ -10,7 +10,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Contáctanos
       link: contact
   - title: Ejecución de obras
     content: Entramos armados y asesinamos a todo el que vemos, no queda nadie. Luego
