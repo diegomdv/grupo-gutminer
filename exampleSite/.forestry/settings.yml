@@ -4,13 +4,29 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: exampleSite/content/spanish/clientes/_index.md
+- type: directory
+  path: exampleSite/content/spanish/servicios
+  label: Servicios
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/spanish/clientes
   label: Clientes
+  create: all
   match: "**/*"
 - type: document
   path: exampleSite/content/spanish/contacto/_index.md
   label: Contacto
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/spanish/proyectos
+  label: Proyectos
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/spanish/noticias
+  label: Noticias
+  create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/spanish
