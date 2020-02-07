@@ -1,21 +1,26 @@
 ---
-title: "Geography"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# Research image
-image: "images/research/research-2.jpg"
-# type
-type: "research"
+title: Limpieza de Inmuebles
+date: 2019-07-06T04:27:17-05:00
+bg_image: images/backgrounds/page-title.jpg
+description: Personal de confianza, especializado y con equipamiento profesional.
+image: images/research/research-2.jpg
+type: research
+
 ---
+### Limpieza de Inmuebles
 
-### About Research
+Grupo Gutminer considera este como un servicio esencial para minimizar el deterioro de las instalaciones y la funcionalidad de las mismas, tanto en el ámbito industrial, inmobiliario y comercial, este servicio lo adecuamos de acuerdo a las necesidades, tamaño y operación de cada cliente.  
+Grupo Gutminer cuenta con equipamiento específico y una metodología que logra optimizar los costos de mantenimiento, así como proporcionar un mayor control de las áreas de trabajo.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+* Abrillantado y Pulido de pisos en general.
+* Lavado de vidrios interiores, exteriores y vidrios altos.
+* Limpieza de mobiliario y tratamiento de muebles de madera.
+* Lavado de alfombras.
+* Lavado de pisos en general.
+* Eliminación de residuos.
+* Limpieza gruesa y fina en obras
+* Limpieza de muros.
+* Limpieza de fachadas.
+* Desengrasado de estacionamientos.
+* Limpieza de puntos de luz y zonas de difícil acceso
+* Limpieza de falsos plafones

@@ -1,21 +1,30 @@
 ---
-title: "Geography"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# Research image
-image: "images/research/research-3.jpg"
-# type
-type: "research"
+title: Administración de Condominios
+date: 2019-07-06T09:27:17.000+00:00
+bg_image: images/backgrounds/page-title.jpg
+description: Administración que genera plusvalía.
+image: images/research/research-3.jpg
+type: research
+
 ---
+### Administración de Condominios
 
-### About Research
+#### Catacterísticas
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Nuestro objetivo es brindar una calidad total en cada  
+administración proporcionando lo siguiente:
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+* Experiencia
+* Servicio Integral
+* Atención Personal
+* Servicio Profesional
+* Aumento de la plusvalía
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+#### Funciones de la Administración
+
+* Vigilar estrictamente el cumplimiento de las disposiciones del Reglamento del Condominio.
+* Elaborar un reglamento interno para la áreas comunes, los servicios y para los problemas específicos del condominio.
+* Atender y supervisar los trabajos de mantenimiento del Condominio, así como supervisar por parte de nuestro despacho y por el administrador interno, cada uno de los servicios del condominio a efecto de que funcionen a la perfección.
+* Auxiliar a los condóminos cuando tengan algún problema en el Condominio, con la constructora en la entrega de las áreas comunes, así como darles cualquier tipo de asesoría legal o inmobiliaria que requieran.
+* Llevar a cabo las funciones de cobranza de las cuotas de mantenimiento, gas y cuota extraordinarias y entregar mensualmente a cada uno de los condóminos   
+  dentro de los primeros 3 días de cada mes una relación detallada de ingresos, egresos, adeudos y saldos.
