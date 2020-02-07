@@ -61,16 +61,22 @@ banner_feature:
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
 about:
   enable: true
-  title: Acerca de Grupo Gutminer
+  title: Grupo Gutminer
   image: images/about/about-us.jpg
   content: |-
     Somos una banda de ladrones que va de ciudad en ciudad buscando nuevas víctimas.
 
     No te preocupes, una vez que te robemos, luego de unos meses nos múdanos y ya no nos vas a encontrar.
+
+    Soluciones integrales para empresas o particulares.
+
+    Grupo Gutminer es la respuesta para ayudarte en la optimización de tus recursos y en la mejora constante de tu patrimonio o empresa.
+
+    Tu satisfacción es nuestro objetivo.
   button:
     enable: true
     label: Conóce más
-    link: about
+    link: contact
 course:
   enable: false
   title: Our Course
