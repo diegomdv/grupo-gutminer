@@ -27,25 +27,44 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "3"
+[[menu.footer]]
+URL = "teacher"
+name = "teacher"
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+[[menu.footer]]
+URL = "event"
+name = "event"
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+[[menu.footer]]
+URL = "research"
+name = "research"
+[[menu.main]]
+URL = "servicios"
+name = "Servicios"
+weight = 2
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
 [[menu.main]]
 URL = "clientes"
 name = "Clientes"
 parent = "Pages"
-weight = 2
+weight = "3"
 [[menu.main]]
 URL = "contacto"
 name = "Contacto"
-weight = 3
-[[menu.main]]
-URL = "servicios"
-name = "Servicios"
-weight = 1
+weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
 contact_form_action = "#"
 description = "Grupo Gutminer"
-email = "info@educenter.com"
+email = "oficina@grupogutminer.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+211234565523"
