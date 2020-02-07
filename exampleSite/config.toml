@@ -28,37 +28,21 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "3"
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
-[[menu.main]]
-URL = "servicios"
-name = "Servicios"
-weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
+name = "Social"
+weight = 1
 [[menu.main]]
 URL = "clientes"
 name = "Clientes"
 parent = "Pages"
-weight = "3"
+weight = 2
 [[menu.main]]
 URL = "contacto"
 name = "Contacto"
-weight = 5
+weight = 3
+[[menu.main]]
+URL = "servicios"
+name = "Servicios"
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
