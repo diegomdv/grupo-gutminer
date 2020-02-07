@@ -2,7 +2,8 @@
 title: Ejecución de Obras
 date: 2019-07-06T09:27:17.000+00:00
 bg_image: images/backgrounds/page-title.jpg
-description: Llevamos tus proyectos, los dirigimos y los ejecutamos.
+description: Experiencia y eficiencia en llevar, dirigir y ejecutar tus proyectos
+  arquitectónicos.
 image: images/research/research-1.jpg
 type: research
 
