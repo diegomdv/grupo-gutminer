@@ -32,11 +32,11 @@ name = "Social"
 weight = 1
 [[menu.main]]
 name = "Clientes"
-weight = 3
+weight = 2
 [[menu.main]]
 URL = "contacto"
 name = "Contacto"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "servicios"
 name = "Servicios"
