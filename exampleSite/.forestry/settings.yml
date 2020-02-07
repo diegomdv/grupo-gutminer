@@ -38,6 +38,8 @@ sections:
   label: i18n
   create: documents
   match: "**/*"
+- type: heading
+  label: Template
 - type: directory
   path: layouts
   label: Layouts
