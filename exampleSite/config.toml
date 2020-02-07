@@ -31,15 +31,11 @@ weight = "3"
 URL = "clientes"
 name = "Clientes"
 parent = "Pages"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "contacto"
 name = "Contacto"
 weight = 3
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 2
 [[menu.main]]
 URL = "servicios"
 name = "Servicios"
