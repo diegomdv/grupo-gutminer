@@ -31,6 +31,7 @@ weight = "3"
 name = "Social"
 weight = 1
 [[menu.main]]
+URL = "clientes"
 name = "Clientes"
 weight = 2
 [[menu.main]]
