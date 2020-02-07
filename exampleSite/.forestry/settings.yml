@@ -17,7 +17,6 @@ sections:
 - type: document
   path: exampleSite/content/spanish/contacto/_index.md
   label: Contacto
-  match: "**/*"
 - type: directory
   path: exampleSite/content/spanish/proyectos
   label: Proyectos
