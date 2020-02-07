@@ -5,7 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: contacto
+  path: exampleSite/content/spanish/clientes/_index.md
+  label: Clientes
+  match: "**/*"
+- type: document
+  path: exampleSite/content/spanish/contacto/_index.md
   label: Contacto
   match: "**/*"
 - type: directory
